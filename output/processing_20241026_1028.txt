@@ -1,0 +1,5 @@
+Processing 3 images
+
+Processed 3/3 images
+Total white pixels: 23,157
+Log saved to: output/processing_20241026_1028.txt
